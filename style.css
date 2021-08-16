@@ -1,0 +1,33 @@
+.img2{
+    width: 225px;
+    height: 225px;
+}
+#Grids{
+    text-align: center;
+}
+#glow{
+    width: 1340px;
+}
+#menu{
+    list-style: none; 
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    display: inline;
+}
+#next{
+    margin-left: 1300px;
+}
+.img3{
+    width: 1340px;
+    height: 1300px;
+}
+#Slides{
+    text-align: center;
+}
+#home{
+   text-align: center; 
+}
